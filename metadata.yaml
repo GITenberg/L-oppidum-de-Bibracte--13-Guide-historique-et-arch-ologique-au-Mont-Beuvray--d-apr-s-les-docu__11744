@@ -1,0 +1,31 @@
+_repo: L-oppidum-de-Bibracte--13-Guide-historique-et-arch-ologique-au-Mont-Beuvray--d-apr-s-les-docu__11744
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Bulliot, Jacques-Gabriel
+    aliases:
+    - Bulliot, G. (Gabriel)
+    - Bulliot, J.-G. (Jacques-Gabriel)
+    birthdate: 1817
+    deathdate: 1902
+    gutenberg_agent_id: '40238'
+    url: http://www.gutenberg.org/2009/agents/40238
+description: Par un membre de la Société Éduenne, à l'occasion du Congrès scientifique
+  d'Autun, d'après les notes et sous la direction de M. J.-G. Bulliot, l'explorateur
+  du mont Beuvray
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11744'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Bibracte (Extinct city) -- Description and travel'
+- GITenberg
+title: "L'oppidum de Bibracte\r\nGuide historique et archéologique au Mont Beuvray;\
+  \ d'après les documents archéologiques les plus récents"
+url: http://www.gutenberg.org/ebooks/11744
