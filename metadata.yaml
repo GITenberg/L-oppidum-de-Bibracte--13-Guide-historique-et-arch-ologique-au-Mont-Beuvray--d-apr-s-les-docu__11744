@@ -1,5 +1,8 @@
 _repo: L-oppidum-de-Bibracte--13-Guide-historique-et-arch-ologique-au-Mont-Beuvray--d-apr-s-les-docu__11744
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Bulliot, Jacques-Gabriel
@@ -13,6 +16,8 @@ creator:
 description: Par un membre de la Société Éduenne, à l'occasion du Congrès scientifique
   d'Autun, d'après les notes et sous la direction de M. J.-G. Bulliot, l'explorateur
   du mont Beuvray
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11744#L-oppidum-de-Bibracte--13-Guide-historique-et-arch-ologique-au-Mont-Beuvray--d-apr-s-les-docu_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
